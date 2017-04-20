@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Books>
+	<Book>
+		<title>On war</title>
+		<author>Carl von Clausewitz</author>
+		<genre>War</genre>
+		<quantity>0</quantity>
+		<price>35.9</price>
+	</Book>
+	<Book>
+		<title>The art of war</title>
+		<author>Sun Tzu</author>
+		<genre>War</genre>
+		<quantity>15</quantity>
+		<price>25</price>
+	</Book>
+	<Book>
+		<title>Maitreyi</title>
+		<author>Mircea Eliade</author>
+		<genre>Romance</genre>
+		<quantity>5</quantity>
+		<price>20</price>
+	</Book>
+	<Book>
+		<title>The Hobbit</title>
+		<author>J. R. R. Tolkien</author>
+		<genre>Adventure</genre>
+		<quantity>15</quantity>
+		<price>40</price>
+	</Book>
+	<Book>
+		<title>Evermore</title>
+		<author>Alyson Noel</author>
+		<genre>Romance</genre>
+		<quantity>0</quantity>
+		<price>40</price>
+	</Book>
+	<Book>
+		<title>Blue Moon</title>
+		<author>Alyson Noel</author>
+		<genre>Romance</genre>
+		<quantity>25</quantity>
+		<price>50</price>
+	</Book>
+	<Book>
+		<title>The sea runners</title>
+		<author>Ivan Doig</author>
+		<genre>Adventure</genre>
+		<quantity>15</quantity>
+		<price>40</price>
+	</Book>
+	<Book>
+		<title>Deliverance</title>
+		<author>James Dickey</author>
+		<genre>Adventure</genre>
+		<quantity>0</quantity>
+		<price>35</price>
+	</Book>
+
+
+
+	
+
+</Books>

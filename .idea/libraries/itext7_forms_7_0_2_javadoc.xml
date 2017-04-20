@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="itext7-forms-7.0.2-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../itext/itext7-forms-7.0.2-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/../itext/itext7-forms-7.0.2-javadoc.jar!/" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Employees>
+	<Employee>
+		<name>Matei Cristina</name>
+		<username>kitty_matei</username>
+		<password>0000</password>
+	</Employee>
+	<Employee>
+		<name>Radu Paul</name>
+		<username>radu_paul</username>
+		<password>0000</password>
+	</Employee>
+	<Employee>
+		<name>Matei Diana</name>
+		<username>dyamatei</username>
+		<password>0000</password>
+	</Employee>
+
+	
+</Employees>
